@@ -36,6 +36,8 @@ Pipeline con estados (Nuevo → Pendiente → En negociación → Ganado/Perdido
 </div>
 <br/>
 
+<img src="https://raw.githubusercontent.com/zharick-acosta/zharick-acosta/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
 ## 🧰 Stack
  
 <div align="center">
