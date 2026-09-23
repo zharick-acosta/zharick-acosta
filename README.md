@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07080C,50:0A1524,100:132C4E&height=220&section=header&text=Zharick%20Acosta&fontSize=46&fontColor=F5F8FC&animation=fadeIn&fontAlignY=36&desc=De%20la%20idea%20al%20MVP%20funcional&descAlignY=56&descSize=18&descColor=8FB8FF" width="100%"/>
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com/?font=Inter&size=22&duration=3000&pause=900&color=4C8DFF&center=true&vCenter=true&width=640&lines=Construyendo+LeadFlow+%F0%9F%9A%80;CRM+web+para+peque%C3%B1os+negocios;JavaScript+%C2%B7+SQL+%C2%B7+Supabase;Abierta+a+clientes+y+oportunidades" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Inter&size=22&duration=3000&pause=900&color=4C8DFF&center=true&vCenter=true&width=640&lines=Construyendo+%F0%9F%9A%80;JavaScript+%C2%B7+SQL+%C2%B7+Supabase;Abierta+a+clientes+y+oportunidades" alt="Typing SVG" />
 </a>
 </div>
 <br/>
@@ -28,7 +28,13 @@ Ahora mismo estoy desarrollando **LeadFlow**, un CRM web para pequeños negocios
  
 Pipeline con estados (Nuevo → Pendiente → En negociación → Ganado/Perdido), dashboard y vista individual de lead. Construido con JavaScript, SQL y Supabase.
  
-[![Repo](https://img.shields.io/badge/Ver_repositorio-132C4E?style=for-the-badge&logo=github&logoColor=F5F8FC)](https://github.com/zharickacosta/LeadFlow)
+[![Repo](https://img.shields.io/badge/Ver_repositorio-132C4E?style=for-the-badge&logo=github&logoColor=F5F8FC)](https://github.com/zharick-acosta/LeadFlow)
+
+  **Color Library** — Librería gratuita para proyectos!
+ 
+Librería gratuita y libre para visualizar paletas de colores en HSL, y en mockup minimalista.
+ 
+[![Repo](https://img.shields.io/badge/Ver_repositorio-132C4E?style=for-the-badge&logo=github&logoColor=F5F8FC)](https://github.com/zharick-acosta/Color-Library)
  
 </td>
 </tr>
