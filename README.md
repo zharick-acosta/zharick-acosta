@@ -30,11 +30,11 @@ Pipeline con estados (Nuevo → Pendiente → En negociación → Ganado/Perdido
  
 [![Repo](https://img.shields.io/badge/Ver_repositorio-132C4E?style=for-the-badge&logo=github&logoColor=F5F8FC)](https://github.com/zharick-acosta/LeadFlow)
 
-  **Color Library** — Librería gratuita para proyectos!
+  **Chromelle** — Librería gratuita para proyectos!
  
-Librería gratuita y libre para visualizar paletas de colores en HSL, y en mockup minimalista.
+Librería gratuita y libre para visualizar paletas de colores en HSL.
  
-[![Repo](https://img.shields.io/badge/Ver_repositorio-132C4E?style=for-the-badge&logo=github&logoColor=F5F8FC)](https://github.com/zharick-acosta/Color-Library)
+[![Repo](https://img.shields.io/badge/Ver_repositorio-132C4E?style=for-the-badge&logo=github&logoColor=F5F8FC)](https://github.com/zharick-acosta/chromelle)
  
 </td>
 </tr>
