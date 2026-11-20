@@ -6,30 +6,55 @@
 </div>
 <br/>
 
-## Sobre mí
+## 👋 Sobre mí
  
-Construyo interfaces y productos web de principio a fin — del diseño en Figma al código funcional listo para producción.
+Diseño y construyo productos digitales, desde la idea hasta una primera versión funcional.
  
-Ahora mismo estoy desarrollando **LeadFlow**, un CRM web para pequeños negocios, emprendedores y agencias que necesitan dejar de perder leads en hojas de cálculo. Documento el proceso con commits diarios, como registro público de cómo se construye.
+Combino **diseño UX/UI** y **desarrollo frontend** para que un producto no solo se vea bien, sino que tenga sentido: usuarios claros, reglas definidas y flujos pensados antes de escribir código.
  
-- 🎓 Tecnóloga en Análisis y Desarrollo de Software (SENA)
-- 🛠️ Aprendiendo en público: bases de datos, autenticación y arquitectura de producto
-- 🌎 Abierta a oportunidades remotas, colaboraciones y proyectos con clientes reales
-<br/>
+Con **Idea-to-MVP** ayudo a fundadores y emprendedores a convertir ideas desorganizadas en productos estructurados, diseñados y preparados para desarrollo.
+ 
+> Tu desarrollador no debería tener que adivinar cómo funciona tu producto.
+---
 
-## 🚀 Ahora mismo construyendo
+## 💼 Idea-to-MVP
  
+Consultoría especializada en desarrollo de productos digitales, en tres modalidades:
+ 
+| Modalidad | Qué incluye |
+|---|---|
+| **Idea Clarity** | Análisis de la idea, problema y usuarios, priorización de funcionalidades y delimitación del MVP. |
+| **MVP Blueprint** | Lo anterior, más arquitectura funcional, roles y permisos, reglas de negocio, flujos de usuario, wireframes y criterios de aceptación. |
+| **Premium MVP** | Lo anterior, más diseño UX/UI, prototipo navegable y programación de la parte acordada del frontend, con código organizado y documentación para que un desarrollador continúe el proyecto. |
+ 
+> El alcance de cada modalidad es explícito: por defecto no incluyo infraestructura, despliegue ni backend en producción.
+ 
+---
+ 
+## 🤝 Hablemos
+ 
+Si estás organizando una idea o un SaaS y quieres definir qué construir primero, escríbeme por [LinkedIn](https://www.linkedin.com/in/zharickacosta).
+
+También me interesan las colaboraciones y el intercambio con otras personas que construyen producto.
+---
+
+## 🚀 Proyectos
 <div align="center">
 <table>
 <tr>
 <td width="100%">
 
-  **LeadFlow** — CRM web para gestión de leads y clientes
- 
-Pipeline con estados (Nuevo → Pendiente → En negociación → Ganado/Perdido), dashboard y vista individual de lead. Construido con JavaScript, SQL y Supabase.
- 
+  ## LeadFlow 📝
 [![Repo](https://img.shields.io/badge/Ver_repositorio-132C4E?style=for-the-badge&logo=github&logoColor=F5F8FC)](https://github.com/zharick-acosta/LeadFlow)
-
+ 
+CRM web simple para pequeños negocios, emprendedores y agencias que necesitan mantener organizados sus leads y clientes.
+ 
+- **Idea central:** ver los leads y que el sistema indique si son clientes potenciales o necesitan más información.
+- **Alcance de la V1:** un solo tipo de usuario (Administrador) y un pipeline con cinco estados: *Nuevo, Pendiente, En negociación, Ganado, Perdido*.
+- **Diseñado hasta ahora:** Dashboard V1 y vista individual del lead.
+- **Stack:** HTML · CSS · JavaScript · Supabase · SQL · Git
+- **Proceso:** documentado con commits diarios en este repositorio.
+  **LeadFlow** — CRM web para gestión de leads y clientes
 </td>
 </tr>
 </table>
